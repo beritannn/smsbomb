@@ -14,4 +14,3 @@ Bu araç sadece eğitim ve test amaçlıdır. Kullanıcıların yaptığı işle
 👤 Geliştirici
 • Yazar: BERITAN
 • Versiyon: 3.1 Pro (2026 Update)
-Küçük bir tavsiye: Eğer projeni GitHub'a yükleyeceksen, klasörün içine requirements.txt adında bir dosya açıp içine sadece şu iki satırı yazman yeterli olacaktır:
