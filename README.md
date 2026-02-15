@@ -4,7 +4,7 @@ BERITAN SMS BOMBER, Kali Linux ve diğer Linux tabanlı sistemler için gelişti
 📥 Kurulum (Installation)
 Terminalinizi açın ve aşağıdaki komutları sırasıyla kopyalayıp yapıştırın:
 1. Projeyi Klonlayın
-2. git clone https://github.com/5b25345/smsbomb.git
+2. git clone https://github.com/beritannn/smsbomb.git
 cd smsbomb
 pip install -r requirements.txt
 python3 smsbomb.py
